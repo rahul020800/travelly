@@ -81,7 +81,7 @@ nav ul {
 }
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url("/travell-project/images/image/mountain.jpg");
+    url("/images/image/mountain.jpg");
   min-height: 90vh;
   background-size: cover;
   background-position: center;
@@ -104,7 +104,7 @@ nav ul {
 #location {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url("/travell-project/images/image/citybg.png");
+    url("/images/image/citybg.png");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -173,7 +173,7 @@ nav ul {
 /* ------------------------------ benefit ------------------------- */
 
 .benefits {
-  background: url("/travell-project/images/image/snow.jpg");
+  background: url("/images/image/snow.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -238,7 +238,7 @@ nav ul {
 #contact {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url("/travell-project/images/image/maps.jpg");
+    url("/images/image/maps.jpg");
   background-position: center;
   background-size: cover;
   display: flex;
